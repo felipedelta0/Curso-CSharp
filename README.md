@@ -13,6 +13,6 @@ Tópicos do curso:
   - [X]  Orientação a Objetos
   - [X]  Métodos e Funções
   - [X]  Exceções
-  - [ ]  Explorando API
-  - [ ]  Tópicos Avançados
-  - [ ]  Conclusão
+  - [X]  Explorando API
+  - [X]  Tópicos Avançados
+  - [X]  Conclusão
