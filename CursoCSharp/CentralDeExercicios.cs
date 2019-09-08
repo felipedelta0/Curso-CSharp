@@ -38,7 +38,7 @@ namespace CursoCSharp
             Console.ResetColor();
 
             Console.WriteLine(String.Concat(
-                Enumerable.Repeat("=", nomeDoExercicio.Length + 21)) + "\n");
+                Enumerable.Repeat("=", nomeDoExercicio.Length + 23)) + "\n");
 
             Action executar = Exercicios.ElementAt(num).Value;
             try
